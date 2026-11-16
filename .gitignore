@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Local output and logs
+deep-voice-error.txt
+*_batman.wav
+*_deep.wav
+*.log
+
+# Editors and OS files
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
