@@ -136,4 +136,4 @@ The tests cover pitch accuracy, streaming equivalence, latency alignment, the on
 
 ## License
 
-No license has been chosen yet. Until one is added, the default copyright rules apply.
+This project is released under the MIT License. See [LICENSE](LICENSE).
